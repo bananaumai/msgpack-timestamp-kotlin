@@ -1,0 +1,3 @@
+rootProject.name = 'msgpack-timestamp-kotlin'
+include 'msgpack-timestamp'
+
